@@ -1,0 +1,96 @@
+{
+    "categorias": [
+        {
+            "nombre": "Ropa",
+            "productos": [
+                {
+                    "nombre": "Camisa",
+                    "precio": 20000,
+                    "atributos": ["Color: Azul", "Talla: M"],
+                    "imagen": "images/camisa.jpg"
+                },
+                {
+                    "nombre": "Pantalón",
+                    "precio": 30000,
+                    "atributos": ["Color: Negro", "Talla: 32"],
+                    "imagen": "images/pantalon.jpg"
+                },
+                {
+                    "nombre": "Zapatos",
+                    "precio": 50000,
+                    "atributos": ["Color: Marrón", "Talla: 42"],
+                    "imagen": "images/zapatos.jpg"
+                }
+            ]
+        },
+        {
+            "nombre": "Hogar",
+            "productos": [
+                {
+                    "nombre": "Mesa",
+                    "precio": 100000,
+                    "atributos": ["Material: Madera", "Dimensiones: 120x60cm"],
+                    "imagen": "images/mesa.jpg"
+                },
+                {
+                    "nombre": "Silla",
+                    "precio": 50000,
+                    "atributos": ["Material: Plástico", "Color: Blanco"],
+                    "imagen": "images/silla.jpg"
+                },
+                {
+                    "nombre": "Lámpara",
+                    "precio": 30000,
+                    "atributos": ["Material: Metal", "Color: Negro"],
+                    "imagen": "images/lampara.jpg"
+                }
+            ]
+        },
+        {
+            "nombre": "Tecnología",
+            "productos": [
+                {
+                    "nombre": "Teclado",
+                    "precio": 25000,
+                    "atributos": ["Marca: Logitech"],
+                    "imagen": "images/teclado.jpg"
+                },
+                {
+                    "nombre": "Mouse",
+                    "precio": 15000,
+                    "atributos": ["Marca: Razer"],
+                    "imagen": "images/mouse.jpg"
+                },
+                {
+                    "nombre": "Pantalla",
+                    "precio": 150000,
+                    "atributos": ["Marca: Samsung"],
+                    "imagen": "images/pantalla.jpg"
+                }
+            ]
+        },
+        {
+            "nombre": "Belleza",
+            "productos": [
+                {
+                    "nombre": "Perfume",
+                    "precio": 75000,
+                    "atributos": ["Marca: Chanel"],
+                    "imagen": "images/perfume.jpg"
+                },
+                {
+                    "nombre": "Crema",
+                    "precio": 25000,
+                    "atributos": ["Marca: Nivea"],
+                    "imagen": "images/crema.jpg"
+                },
+                {
+                    "nombre": "Maquillaje",
+                    "precio": 40000,
+                    "atributos": ["Marca: Maybelline"],
+                    "imagen": "images/maquillaje.jpg"
+                }
+            ]
+        }
+    ]
+}
